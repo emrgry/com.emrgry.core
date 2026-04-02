@@ -1,0 +1,14 @@
+{
+  "name": "com.emrgry.core",
+  "version": "1.0.0",
+  "displayName": "Emrgry Core",
+  "description": "Foundational Unity infrastructure: EventBus (pub/sub), ServiceLocator (DI), SceneLoader, and Camera interfaces.",
+  "unity": "6000.0",
+  "author": {
+    "name": "emrgry",
+    "url": "https://github.com/emrgry"
+  },
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.10"
+  }
+}
