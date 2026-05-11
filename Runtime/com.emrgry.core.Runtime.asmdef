@@ -1,7 +1,9 @@
 {
     "name": "com.emrgry.core.Runtime",
     "rootNamespace": "Emrgry.Core",
-    "references": [],
+    "references": [
+        "UniTask"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
